@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-workflow-gh-actions/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-workflow-gh-actions/static/js/main.3aa899c8.chunk.js",
-    "main.js.map": "/react-workflow-gh-actions/static/js/main.3aa899c8.chunk.js.map",
-    "runtime-main.js": "/react-workflow-gh-actions/static/js/runtime-main.4b5a5e15.js",
-    "runtime-main.js.map": "/react-workflow-gh-actions/static/js/runtime-main.4b5a5e15.js.map",
-    "static/js/2.cda0fc8a.chunk.js": "/react-workflow-gh-actions/static/js/2.cda0fc8a.chunk.js",
-    "static/js/2.cda0fc8a.chunk.js.map": "/react-workflow-gh-actions/static/js/2.cda0fc8a.chunk.js.map",
-    "index.html": "/react-workflow-gh-actions/index.html",
-    "precache-manifest.10fbc4530f1f29255a3e9be763b24e78.js": "/react-workflow-gh-actions/precache-manifest.10fbc4530f1f29255a3e9be763b24e78.js",
-    "service-worker.js": "/react-workflow-gh-actions/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-workflow-gh-actions/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cda0fc8a.chunk.js.LICENSE.txt": "/react-workflow-gh-actions/static/js/2.cda0fc8a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-workflow-gh-actions/static/media/logo.5d5d9eef.svg"
+    "main.css": "/nico183200/tp1DevOps/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nico183200/tp1DevOps/static/js/main.571ea3e0.chunk.js",
+    "main.js.map": "/nico183200/tp1DevOps/static/js/main.571ea3e0.chunk.js.map",
+    "runtime-main.js": "/nico183200/tp1DevOps/static/js/runtime-main.f252f5f6.js",
+    "runtime-main.js.map": "/nico183200/tp1DevOps/static/js/runtime-main.f252f5f6.js.map",
+    "static/js/2.cda0fc8a.chunk.js": "/nico183200/tp1DevOps/static/js/2.cda0fc8a.chunk.js",
+    "static/js/2.cda0fc8a.chunk.js.map": "/nico183200/tp1DevOps/static/js/2.cda0fc8a.chunk.js.map",
+    "index.html": "/nico183200/tp1DevOps/index.html",
+    "precache-manifest.47cdfb953cccc4fcb695145a17c4d2dd.js": "/nico183200/tp1DevOps/precache-manifest.47cdfb953cccc4fcb695145a17c4d2dd.js",
+    "service-worker.js": "/nico183200/tp1DevOps/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nico183200/tp1DevOps/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.cda0fc8a.chunk.js.LICENSE.txt": "/nico183200/tp1DevOps/static/js/2.cda0fc8a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nico183200/tp1DevOps/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b5a5e15.js",
+    "static/js/runtime-main.f252f5f6.js",
     "static/js/2.cda0fc8a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3aa899c8.chunk.js"
+    "static/js/main.571ea3e0.chunk.js"
   ]
 }
